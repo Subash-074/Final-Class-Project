@@ -1,4 +1,4 @@
-Python Django Backend E_commerce Application with Admin, User Login, Logout Frontend View  Built using Python, Django, CSS
+Python Django Backend E_commerce Application with Admin, User Login, Logout Frontend View  Built using Python, Django,Tailwind CSS
 
 Steps to Run in Terminal:
 Right Click on the project folder.
