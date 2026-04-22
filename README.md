@@ -1,3 +1,5 @@
+Python Django Backend E_commerce Application with Admin, User Login, Logout Frontend View  Built using Python, Django, CSS
+
 Steps to Run in Terminal:
 
 
